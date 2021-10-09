@@ -1,2 +1,8 @@
-# test_for_osintmap
-Repo for test Yandex Maps API and "World map of OSINT tools"
+# This is test repo! Ignore it!
+
+#Main repo is here:
+
+https://cipher387.github.io/osintmap/
+
+https://github.com/cipher387/osintmap
+
