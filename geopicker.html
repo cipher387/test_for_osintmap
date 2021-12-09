@@ -22,7 +22,25 @@ function init() {
     myMap.geoObjects
 .add(new ymaps.Placemark([55.92497, 37.97218], { balloonContentHeader: '@cyb_detective town', balloonContent: '<a target="_blank" href="https://twitter.com/cyb_detective">Twitter</a></br><a target="_blank" href="https://t.me/cybdetective">Telegram</a></br><a target="_blank" href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview">Email Newsletter</a></br><a target="_blank" href="https://github.com/cipher387">Github</a></br><a href="https://www.linkedin.com/groups/1908171/">Linkedin</a>'}, {preset: 'islands#governmentCircleIcon',iconColor: '#000000'}))
 .add(new ymaps.Placemark([33.93911, 67.709953], { balloonContentHeader: 'Afganistan', balloonContent: '</br><a href="http://203.215.33.115/CompanyVerification/Pages/BuReVerification.aspx">Central Business Registry</a>'}, {preset: 'islands#governmentCircleIcon',iconColor: '#ff0000'}));
- }
+myMap.events.add('click', function (e) {
+        if (!myMap.balloon.isOpen()) {
+            var coords = e.get('coords');
+            myMap.balloon.open(coords, {
+                contentHeader:'Event!',
+                contentBody:'<p>Someone clicked on the map.</p>' +
+                    '<p>Click coordinates: ' + [
+                    coords[0].toPrecision(6),
+                    coords[1].toPrecision(6)
+                    ].join(', ') + '</p>',
+                contentFooter:'<sup>Click again</sup>'
+            });
+        }
+        else {
+            myMap.balloon.close();
+        }
+    });
+
+}
     
     </script>
     <style>
