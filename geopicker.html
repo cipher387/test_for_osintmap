@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Worldmap of OSINT tools</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+     <link rel="stylesheet" href="style.css">
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+     <link rel="stylesheet" href="https://cipher387.github.io/style.css">
+    <script src="https://api-maps.yandex.ru/2.1/?lang=en-US&amp;apikey=dd2f32f4-ec03-4262-9a22-534440cf66bd" type="text/javascript"></script>
+    <script type="text/javascript">
+	ymaps.ready(init);
+
+function init() {
+    var myMap = new ymaps.Map("map", {
+        center: [35.00, 1.00],
+        zoom: 4
+    }, {
+        searchControlProvider: 'yandex#search'
+    });
+    myMap.geoObjects
+.add(new ymaps.Placemark([55.92497, 37.97218], { balloonContentHeader: '@cyb_detective town', balloonContent: '<a target="_blank" href="https://twitter.com/cyb_detective">Twitter</a></br><a target="_blank" href="https://t.me/cybdetective">Telegram</a></br><a target="_blank" href="https://www.getrevue.co/profile/cyb_detective?via=twitter-profile-webview">Email Newsletter</a></br><a target="_blank" href="https://github.com/cipher387">Github</a></br><a href="https://www.linkedin.com/groups/1908171/">Linkedin</a>'}, {preset: 'islands#governmentCircleIcon',iconColor: '#000000'}))
+.add(new ymaps.Placemark([33.93911, 67.709953], { balloonContentHeader: 'Afganistan', balloonContent: '</br><a href="http://203.215.33.115/CompanyVerification/Pages/BuReVerification.aspx">Central Business Registry</a>'}, {preset: 'islands#governmentCircleIcon',iconColor: '#ff0000'}));
+ }
+    
+    </script>
+    <style>
+        html, body, #map {
+            width: 100%; height: 95%; padding: 0; margin: 0;
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+    <div class="well">
+Test
+         </div>
+</body>
+</html>
