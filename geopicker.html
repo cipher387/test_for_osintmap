@@ -25,7 +25,7 @@ function init() {
 myMap.events.add('click', function (e) {
         if (!myMap.balloon.isOpen()) {
             var coords = e.get('coords');
-		document.getElementById("demo").innerHTML = [coords[0].toPrecision(6), coords[1].toPrecision(6)].join(', ');
+		document.getElementById("results").innerHTML = [coords[0].toPrecision(6), coords[1].toPrecision(6)].join(', ');
             myMap.balloon.open(coords, {
                 contentHeader:'Coordinates:',
                 contentBody:'<p>' + [
