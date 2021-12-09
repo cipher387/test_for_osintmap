@@ -10,7 +10,9 @@
      <link rel="stylesheet" href="https://cipher387.github.io/style.css">
     <script src="https://api-maps.yandex.ru/2.1/?lang=en-US&amp;apikey=dd2f32f4-ec03-4262-9a22-534440cf66bd" type="text/javascript"></script>
     <script type="text/javascript">
+        ymaps = window.ymaps;
 	ymaps.ready(init);
+	    
 
 function init() {
     var myMap = new ymaps.Map("map", {
