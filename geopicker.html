@@ -24,16 +24,12 @@ function init() {
 .add(new ymaps.Placemark([33.93911, 67.709953], { balloonContentHeader: 'Afganistan', balloonContent: '</br><a href="http://203.215.33.115/CompanyVerification/Pages/BuReVerification.aspx">Central Business Registry</a>'}, {preset: 'islands#governmentCircleIcon',iconColor: '#ff0000'}));
 myMap.events.add('click', function (e) {
         if (!myMap.balloon.isOpen()) {
-	    document.getElementById("results").innerHTML = "Paragraph changed!";
+	    document.getElementById("results").innerHTML = coords[0].toPrecision(9)+","+coords[1].toPrecision(9);
             var coords = e.get('coords');
             myMap.balloon.open(coords, {
-                contentHeader:'Event!',
-                contentBody:'<p>Someone clicked on the map.</p>' +
-                    '<p>Click coordinates: ' + [
-                    coords[0].toPrecision(6),
-                    coords[1].toPrecision(6)
-                    ].join(', ') + '</p>',
-                contentFooter:'<sup>Click again</sup>'
+                contentHeader:'Coordinates:',
+                contentBody: coords[0].toPrecision(9)+","+coords[1].toPrecision(9)
+               
             });
         }
         else {
