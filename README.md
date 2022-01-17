@@ -5,7 +5,7 @@ https://cipher387.github.io/osintmap/
 ![Worldwide OSINT Map](https://github.com/cipher387/osintmap/blob/main/osintmap.jpg)
 
 
-|Afganistan|</br><a href="http://203.215.33.115/CompanyVerification/Pages/BuReVerification.aspx">Central Business Registry</a>|
+|Afganistan|<a href="http://203.215.33.115/CompanyVerification/Pages/BuReVerification.aspx">Central Business Registry</a>|
 
 
 <h1>What if you want to make a copy of the map with other points?</h1>
