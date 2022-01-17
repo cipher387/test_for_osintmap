@@ -25,7 +25,7 @@ https://cipher387.github.io/osintmap/
 | Austria | Business registry <a href="https://www.firmenabc.at/">firmenabc.at</a></br>Yellow/White pages <a href="http://www.herold.at/">Austria Yellow Pages</a> <a href="http://austriayp.com/">Yellow Pages 2</a> |</br>
 | Azerbaijan | Business registry <a href="https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp">e-taxes.gov.az</a></br>Court records <a href="https://e-mehkeme.gov.az/Public/Cases?courtid=">Azerbaijan electronic courts system</a> <a href="http://azerbaijanyp.com/">Yellow Pages</a> |</br>
 | Bahamas | Business registry <a href="https://www.bahamas.gov.bs/wps/myportal/public/rgd/company/company-search">bahamas.gov.bs</a> |</br>
-| Bahrain | </br>Yellow/White pages <a href="http://www.bahrainyellowpages.com.bh/">Bahrain Yellow Pages</a> <a href="https://www.bahrainyellow.com/">Yellow Pages</a> |</br>
+| Bahrain | Yellow/White pages <a href="http://www.bahrainyellowpages.com.bh/">Bahrain Yellow Pages</a> <a href="https://www.bahrainyellow.com/">Yellow Pages</a> |</br>
 | Baltimore | Passengers lists <a target="_blank" href="https://www.ancestry.com/search/collections/8679/">Ancestry: "Baltimore, Passenger Lists, 1820-1964"</a> |</br>
 | Bangladesh |  <a href="https://www.bangladeshyp.com/">Yellow Pages</a> |</br>
 | Barbados |  <a href="https://www.bbyellow.com/">Yellow Pages</a> |</br>
@@ -34,7 +34,7 @@ https://cipher387.github.io/osintmap/
 | Belize | Business registry <a href="https://companysearch.bz/public_search/">companysearch.bz</a> |</br>
 | Benin |  <a href="http://benin.afrium.com/">Benin Business Directory</a> |</br>
 | Berlin | Transport live map <a target="_blank" href="https://www.vbb.de/fahrinfo/">vbb.de</a> |</br>
-| Bolivia | </br>Yellow/White pages <a href="http://bolivia.paginasamarillas.com/">Bolivia Yellow Pages</a> <a href="https://www.boliviayp.com/>Yellow Pages</a> |</br>
+| Bolivia | Yellow/White pages <a href="http://bolivia.paginasamarillas.com/">Bolivia Yellow Pages</a> <a href="https://www.boliviayp.com/>Yellow Pages</a> |</br>
 | Bosnia and Herzegovina | Business registry <a href="https://search.bisnode.rs/search/?c=ba&q=">search.bisnode.rs</a> |</br>
 | Botswana |  <a href="https://www.localbotswana.com/">Business search</a> |</br>
 | Brazil |  <a href="https://portalbnmp.cnj.jus.br/#/pesquisa-peca#">National Bank of Arrest Warrants</a> <a href="https://www.jusbrasil.com.br/">Court search</a> <a href="https://www.escavador.com/">People and business search</a> <a href="https://www.situacao-cadastral.com">CPF/CNJP number search</a> <a href="https://brazilyello.com/">Yellow Pages</a> |</br>
@@ -48,14 +48,14 @@ https://cipher387.github.io/osintmap/
 | Canada |  <a href="https://411numbers-canada.com/?__cf_chl_jschl_tk__=z1m1CStxKK6fBcZJE7KJ.5GE8DDgd0Sgtj06O79xDlc-1636385313-0-gaNycGzNCOU">White Pages 411numbers-canada.com</a> <a href="http://mobile.canada411.ca">Free People Search mobile.canada411.ca</a> <a href="https://www.canadapost-postescanada.ca/info/mc/personal/postalcode/fpc.jsf">Find Postal code</a> <a href="https://freecarrierlookup.com/">Mobile Carier Lookup</a> <a href="https://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/home?lang=eng">Trademarks database</a> <a href="https://www.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html?wt_src=cipo-patent-main">Patents database</a> <a href="https://publicrecords.searchsystems.net/Canada_Free_Public_Records/">Public Records Search</a> <a href="https://beta.canadasbusinessregistries.ca/search">Business registry search</a> <a href="https://www.nrcan.gc.ca/earth-sciences/geography/atlas-canada/explore-our-maps/16836">Maps archive</a> |</br>
 | Cayman Islands | Business registry <a href="https://www.cima.ky/search-entities-cima">cima.ky</a> <a href="https://www.caymanlist.com/>Business list</a> |</br>
 | Chad |  <a href="http://chad.afrium.com/">Business search</a> |</br>
-| Chile | </br>Yellow/White pages <a href="http://www.galaxy.com/rvw18197-841205/Chile-Electronic-Yellow-Pages.htm">Chile Yellow Pages</a> <a href="https://www.yelu.cl/">Yellow Pages</a> |</br>
+| Chile | Yellow/White pages <a href="http://www.galaxy.com/rvw18197-841205/Chile-Electronic-Yellow-Pages.htm">Chile Yellow Pages</a> <a href="https://www.yelu.cl/">Yellow Pages</a> |</br>
 | China | Business registry <a href="https://xinyong.1688.com/">xinyong.1688.com</a></br>Court records <a href="https://splcgk.court.gov.cn/lcgkw/user#">China Judicial Process Information Online</a> <a href="https://wenshu.court.gov.cn/">China Jugments Online</a></br>Yellow/White pages <a href="http://www.chinavista.com/business/directory/home.html">China Vista Yellow Pages</a> <a href="http://www.yellowpages-china.com/">China Yellow Pages</a> <a href="http://www.whatchina.com">WhatChina People Search</a> <a href="https://wenshu.court.gov.cn">Wenshu Court Search</a> <a href="https://shahit.biz/eng/">Xinjiang Victims Database</a> |</br>
-| Colombia | </br>Yellow/White pages <a href="http://www.quehubo.com/">Colombian Yellow Pages</a> <a href="http://www.paginasamarillas.com.co/">Colombian Business Information/Yellow Pages</a> <a href="https://www.yelu.com.co/">Yellow Pages</a> |</br>
+| Colombia | Yellow/White pages <a href="http://www.quehubo.com/">Colombian Yellow Pages</a> <a href="http://www.paginasamarillas.com.co/">Colombian Business Information/Yellow Pages</a> <a href="https://www.yelu.com.co/">Yellow Pages</a> |</br>
 | Colorado |  <a href="https://archives.colorado.gov/collections/history/incorporation-records">State archive incorporations records</a> |</br>
 | Connecticut | Transport live map <a target="_blank" href="https://seatbuslive.com/map">seatbuslive.com</a> |</br>
 | Cook Islands | Business registry <a href="https://registry.justice.gov.ck/corp/search.aspx">registry.justice.gov.ck</a> |</br>
 | Copenhagen | Passengers lists <a target="_blank" href="http://www.udvandrerarkivet.dk/udvandrerprotokollerne/">Copenhagen Police Emigrant protocols (Denmark, up to 1908)</a> |</br>
-| Costa Rica | </br>Yellow/White pages <a href="http://costa-rica.paginasamarillas.com/">Costa Rica Yellow Pages</a> <a href="https://yelu.cr/">Yellow Pages</a> |</br>
+| Costa Rica | Yellow/White pages <a href="http://costa-rica.paginasamarillas.com/">Costa Rica Yellow Pages</a> <a href="https://yelu.cr/">Yellow Pages</a> |</br>
 | Croatia | Business registry <a href="https://www.companywall.hr/">companywall.hr</a> <a href="http://croatiayp.com/">Yellow Pages</a> |</br>
 | Cuba |  <a href="https://www.yellocu.com/">Yellow Pages</a> |</br>
 | Curacao | Business registry <a href="http://www.curacao-chamber.cw/services/registry/search-company">curacao-chamber.cw</a> |</br>
@@ -68,8 +68,8 @@ https://cipher387.github.io/osintmap/
 | Dominica | Business registry <a href="https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx">efiling.drcor.mcit.gov.cy</a> |</br>
 | Dominican Republic |  <a href=" https://www.yelu.do/">Yellow Pages</a> |</br>
 | DuPage County |  <a href="https://recorder.dupageco.org/Search.aspx">Universal documents (deeds, mortgages, jugment orders, lis pendens etc) search by name, surname address</a> |</br>
-| Ecuador | </br>Yellow/White pages <a href="http://www.paginasamarillas.info.ec/">Ecuador Yellow Pages</a> |</br>
-| Egypt | </br>Yellow/White pages <a href="http://www.yellowpages.com.eg/en">Egypt Yellow Pages</a> |</br>
+| Ecuador | Yellow/White pages <a href="http://www.paginasamarillas.info.ec/">Ecuador Yellow Pages</a> |</br>
+| Egypt | Yellow/White pages <a href="http://www.yellowpages.com.eg/en">Egypt Yellow Pages</a> |</br>
 | El Salvador |  <a href="https://www.elsalvadoryp.com/>Yellow Pages</a> |</br>
 | Estonia | Cadastral map <a href="https://xgis.maaamet.ee/xgis2/page/app/maainfo">xgis.maaamet.ee</a> </br>Venicle information <a target="_blank" href="https://eteenindus.mnt.ee/public/soidukTaustakontroll.jsf">eteenindus.mnt.ee</a></br>Court records <a href="https://www.riigiteataja.ee/kohtulahendid/koik_menetlused.html">Ministry of Justice of Estonia</a></br>Yellow/White pages <a href="http://www.yellowpages.ee/en/">Estonia Yellow Pages</a> <a href="http://estoniayp.com/">Yellow Pages 2</a> |</br>
 | Ethiopia | Cadastral map <a href="http://ethiopian.portal.miningcadastre.com/MapPage.aspx?PageID=a16a9300-7c58-4f81-9e5c-97e13b22b0c6">ethiopian.portal.miningcadastre.com</a></br>Business registry <a href="https://ariregister.rik.ee/">ariregister.rik.ee</a> <a href="http://ethyp.com/">Yellow Pages</a> |</br>
@@ -84,14 +84,14 @@ https://cipher387.github.io/osintmap/
 | Georgia |  <a href="https://search.gsccca.org/RealEstate/">Real Estate Index Search</a> |</br>
 | Georgia |  <a href="https://enreg.reestri.gov.ge/main.php?m=new_index">Business registry</>a> <a href="http://georgiayp.com/">Yellow Pages</a> |</br>
 | Germany | Business registry <a href="https://www.unternehmensregister.de/ureg/">unternehmensregister.de</a></br>Yellow/White pages <a href="http://www.klicktel.de/branchenbuch">German Business Directory</a> <a href="http://www.gelbeseiten.de/">Gelbe Seiten Yellow Pages</a> <a href="http://www.teleauskunft.de/">German Yellow Pages</a> <a href="https://implisense.com/">Business registry</a> <a href="https://ulforum.de/flugplatzliste">Germany Airfields Database</a> |</br>
-| Ghana | </br>Yellow/White pages <a href="http://yellowpages.com.gh/Home.aspx">Yellow Pages Ghana</a> <a href="https://egovonline.gegov.gov.gh/RGDPortalWeb/portal/RGDHome/eghana.portal;jsessionid=N5rnhGDTgPNfSfLSXCqz8RlLSfgbzLyFpKS36FLMwgplBl6Fp5L5!-660752565?_nfpb=true&_st=&_pageLabel=portal_RGDHome_NameSearchPage_page&linksPageTitle=Name+Search&service=namesearch#wlp_portal_RGDHome_NameSearchPage_page">Business search</a> <a href="https://gra.gov.gh/online-tools/verify-tin/">TIN Verify</a> <a href="https://www.mint.gov.gh/private-security-organisations-in-good-standing/">Private Security organizations dataset</a> |</br>
-| Greece | </br>Yellow/White pages <a href="http://www.xo.gr/">Greece Yellow Pages</a> |</br>
+| Ghana | Yellow/White pages <a href="http://yellowpages.com.gh/Home.aspx">Yellow Pages Ghana</a> <a href="https://egovonline.gegov.gov.gh/RGDPortalWeb/portal/RGDHome/eghana.portal;jsessionid=N5rnhGDTgPNfSfLSXCqz8RlLSfgbzLyFpKS36FLMwgplBl6Fp5L5!-660752565?_nfpb=true&_st=&_pageLabel=portal_RGDHome_NameSearchPage_page&linksPageTitle=Name+Search&service=namesearch#wlp_portal_RGDHome_NameSearchPage_page">Business search</a> <a href="https://gra.gov.gh/online-tools/verify-tin/">TIN Verify</a> <a href="https://www.mint.gov.gh/private-security-organisations-in-good-standing/">Private Security organizations dataset</a> |</br>
+| Greece | Yellow/White pages <a href="http://www.xo.gr/">Greece Yellow Pages</a> |</br>
 | Guatemala | Business registry <a href="http://econsultas.registromercantil.gob.gt">econsultas.registromercantil.gob.gt</a></br>Yellow/White pages <a href="http://www.paginasamarillas.com.gt/">Guatemala Yellow Pages</a> <a href="https://www.gtyello.com/">Yellow Pages</a> |</br>
 | Guernsey | Business registry <a href="https://www.greg.gg/webCompSearch.aspx">greg.gg</a> |</br>
 | Guinea | Cadastral map <a href="http://guinee.cadastreminier.org/fr/">guinee.cadastreminier.org</a> |</br>
 | Hawaii | Passengers lists <a target="_blank" href="https://digitalcollections.hawaii.gov/greenstone3/library/collection/indextoc/page/about">Hawaii.gov: "Chinese Passenger Manifests" 1843-1900</a> <a target="_blank" href="https://digitalcollections.hawaii.gov/greenstone3/library/collection/indextoj/page/about">Japanese Passenger Manifests" 1843-1900</a> <a target="_blank" href="https://digitalcollections.hawaii.gov/greenstone3/library/collection/indextop/page/about">Hawaii.gov: "Portuguese Passenger Manifests" 1843-1900</a> |</br>
 | Ho Chi Minh City | Cadastral map <a href="https://thongtinquyhoach.hochiminhcity.gov.vn/">thongtinquyhoach.hochiminhcity.gov.vn</a> |</br>
-| Honduras | </br>Yellow/White pages <a href="http://honduras.paginasamarillas.com/">Honduras Yellow Pages</a> <a href="https://www.yelu.hn/>Yellow Pages</a> |</br>
+| Honduras | Yellow/White pages <a href="http://honduras.paginasamarillas.com/">Honduras Yellow Pages</a> <a href="https://www.yelu.hn/>Yellow Pages</a> |</br>
 | Honolulu | Passengers lists <a target="_blank" href="https://www.ancestry.com/search/collections/1502/">Hawaii.gov: "Honolulu, Hawaii, U.S., Arriving and Departing Passenger and Crew Lists, 1900-1959"</a> |</br>
 | Hungary | Business registry <a href="https://www.adoszam.hu/">adoszam.hu</a></br>Court records <a href="https://eakta.birosag.hu/anonimizalt-hatarozatok">National Court Office</a> <a href="https://www.telekom.hu/lakossagi/tudakozo">White Pages</a> |</br>
 | Illinois |  <a href="https://www.ilsos.gov/corporatellc/">Corporates search</a> |</br>
@@ -99,7 +99,7 @@ https://cipher387.github.io/osintmap/
 | Indiana |  <a href="https://www.in.gov/core/mobile/business-search.html">Business Search</a> |</br>
 | Indonesia | Business registry <a href="https://ahu.go.id/pencarian/profil-pt">ahu.go.id</a></br>Court records <a href="https://kepaniteraan.mahkamahagung.go.id/perkara/">Registrar of the Supreme Court of the Republic of Indonesia</a></br>Yellow/White pages <a href="http://www.yellowpages.co.id/">Indonesia Yellow Pages</a> |</br>
 | Iowa |  <a href="https://sos.iowa.gov/search/business/search.aspx">Business Search</a> |</br>
-| Iran | </br>Yellow/White pages <a href="http://www.iranyellowpages.net/en/">Iran Yellow Pages</a> |</br>
+| Iran | Yellow/White pages <a href="http://www.iranyellowpages.net/en/">Iran Yellow Pages</a> |</br>
 | Ireland |  <a href="https://www.irelandyp.com/">Yellow Pages</a> |</br>
 | Island |  <a href="https://ja.is/">White/Yellow pages</a> |</br>
 | Isle of Man | Business registry <a href="https://services.gov.im/ded/services/companiesregistry/companysearch.iom">services.gov.im</a> |</br>
@@ -114,7 +114,7 @@ https://cipher387.github.io/osintmap/
 | Kazakhstan | Cadastral map <a href="http://www.aisgzk.kz/aisgzk/ru/content/maps/">aisgzk.kz</a></br>Business registry <a href="https://pk.uchet.kz/">pk.uchet.kz</a></br>Court records <a href="https://office.sud.kz/lawsuit/">Supreme Court of Kazakhstan</a> <a href="http://kazakhstanyp.com/">Yellow Page</a> |</br>
 | Kenia | Cadastral map <a href="https://portal.miningcadastre.go.ke/Site/EmbeddedMapPortal.aspx?PageID=f877b9bc-d68a-415f-b051-5048ff5a68b0">portal.miningcadastre.go.ke</a> |</br>
 | Kentucky |  <a href="https://kentucky.gov/Services/Pages/ovis.aspx">Online Venicle Information System</a> <a href="https://kycourts.gov/Pages/index.aspx">Court case search</a> |</br>
-| Kenya | </br>Yellow/White pages <a href="http://www.yellowpageskenya.com/">Kenya Yellow Pages</a> <a href="http://kenyalaw.org/">Legal cases search</a> <a href="https://businesslist.co.ke/">Kenya Business List</a> |</br>
+| Kenya | Yellow/White pages <a href="http://www.yellowpageskenya.com/">Kenya Yellow Pages</a> <a href="http://kenyalaw.org/">Legal cases search</a> <a href="https://businesslist.co.ke/">Kenya Business List</a> |</br>
 | Kosovo | Cadastral map <a href="http://geoportal.rks-gov.net">geoportal.rks-gov.net</a> |</br>
 | Krakow |  <a href="http://www.rakowice.eu/">The Board of Communal Cemeteries in Krakow</a> |</br>
 | Kuwait |  <a href="https://www.kuwaityello.com/">Yellow Pages</a> |</br>
@@ -124,37 +124,37 @@ https://cipher387.github.io/osintmap/
 | Lebanon |  <a href="https://www.yelleb.com/">Yellow Pages</a> |</br>
 | Lesotho |  <a href="https://www.lesothoyp.com/">Yellow Pages</a> |</br>
 | Liberia | Cadastral map <a href="http://portals.landfolio.com/liberia/">portals.landfolio.com</a> |</br>
-| Libya | </br>Yellow/White pages <a href="http://www.yellowpages.ly/en/">Libya Yellow Pages</a> <a href="https://libyayp.com/">Yellow Pages 2</a> |</br>
+| Libya | Yellow/White pages <a href="http://www.yellowpages.ly/en/">Libya Yellow Pages</a> <a href="https://libyayp.com/">Yellow Pages 2</a> |</br>
 "| Lichteinstein |  <a href=""http://www.personalschriften.de/datenbanken/gesa/gesa-erweiterte-suche.html""> Complete catalog of German-language funeral sermons
  </a> |</br>"
-| Lithuania | </br>Yellow/White pages <a href="http://www.visalietuva.lt/">Lithuania Yellow Pages</a> <a href="http://imones.lrytas.lt/">Lithuania Business Directory</a> <a href="https://www.registrucentras.lt/jar/p/index.php">Business registry</a> |</br>
+| Lithuania | Yellow/White pages <a href="http://www.visalietuva.lt/">Lithuania Yellow Pages</a> <a href="http://imones.lrytas.lt/">Lithuania Business Directory</a> <a href="https://www.registrucentras.lt/jar/p/index.php">Business registry</a> |</br>
 | Ljubljana |  <a href="https://grobovi.zale.si/">Finder of Ljubljana graves</a> |</br>
 | London | Cadastral map <a href="https://apps.london.gov.uk/public-land/">apps.london.gov.uk</a></br>Transport live map <a target="_blank" href="https://traintimes.org.uk/map/london-buses/#73">Live London Buses</a> |</br>
 | Los Angeles | Transport live map <a target="_blank" href="https://www.ladotbus.com/map">Ladotbus.com</a> |</br>
 | Louisiana |  <a href="https://www.sos.la.gov/BusinessServices/SearchForLouisianaBusinessFilings/Pages/default.aspx">Search Business Filings</a> <a href="https://www.laclerksportal.org/">Lanf and Marriage records search</a> |</br>
-| Luxembourg | </br>Yellow/White pages <a href="http://www.infobel.com/en/luxembourg/">Luxembourg White Pages</a> |</br>
+| Luxembourg | Yellow/White pages <a href="http://www.infobel.com/en/luxembourg/">Luxembourg White Pages</a> |</br>
 | Madagascar |  <a href="https://madayp.com/">Yellow Pages</a> |</br>
 | Maine |  <a href="https://www.maine.gov/sos/cec/corp/">Corporation search</a> <a href="https://www.maineregistryofdeeds.com/">Registry of deeds</a> |</br>
 | Malawi | Cadastral map <a href="http://portals.landfolio.com/malawi/">portals.landfolio.com</a> <a href="https://www.malawiyp.com/">Yellow Pages</a> |</br>
-| Malaysia | </br>Yellow/White pages <a href="http://www.yellowpages.my/">Malaysia Yellow Pages</a> <a href="https://mytruck.my">Find trucks</a> <a href="https://businesslist.my/">Malaysia Business List</a> |</br>
-| Mali | </br>Yellow/White pages <a href="http://www.malipages.com/en/">Mali Yellow Pages</a> <a href="https://www.maliyp.com/">Yellow Pages 2</a> |</br>
-| Malta | </br>Court records <a href=https://ecourts.gov.mt/onlineservices/CivilCases">Search Civil Cases</a> <a href="https://www.maltayp.com/>Yellow Pages</a> |</br>
+| Malaysia | Yellow/White pages <a href="http://www.yellowpages.my/">Malaysia Yellow Pages</a> <a href="https://mytruck.my">Find trucks</a> <a href="https://businesslist.my/">Malaysia Business List</a> |</br>
+| Mali | Yellow/White pages <a href="http://www.malipages.com/en/">Mali Yellow Pages</a> <a href="https://www.maliyp.com/">Yellow Pages 2</a> |</br>
+| Malta | Court records <a href=https://ecourts.gov.mt/onlineservices/CivilCases">Search Civil Cases</a> <a href="https://www.maltayp.com/>Yellow Pages</a> |</br>
 | Manitoba |  <a href="https://companiesoffice.gov.mb.ca/online.html">Business Registry Search</a> <a href="https://web43.gov.mb.ca/Registry/NameSearch">Courts search</a> |</br>
 | Maryland | Passengers lists <a target="_blank" href="https://www.thearkandthedove.com/">The ark of the dove</a> |</br>
 | Massachusetts | Passengers lists <a target="_blank" href="https://www.ancestry.com/search/collections/8745/">Ancestry: "All Massachusetts, U.S., Arriving Passenger and Crew Lists, 1820-1963"</a> <a href="https://www.mavehiclecheck.com/apps/vir-lookup-tool">VIR Number Lookup Tool</a> |</br>
 | Mauritania | Cadastral map <a href="http://portals.landfolio.com/Mauritania/fr/">portals.landfolio.com</a> |</br>
 | Mauritius | Business registry <a href="https://companies.govmu.org:4343/MNSOnlineSearch/">companies.govmu.org</a></br>Court records <a href="https://supremecourt.govmu.org/_Layouts/CLIS.DMS/Judgment/SearchPage.aspx">Supreme Court of Mauritius</a> |</br>
-| Mexico | </br>Yellow/White pages <a href="http://www.seccionamarilla.com.mx/">Mexico Yellow Pages</a> <a href="https://yelo.com.mx/">Yellow Pages 2</a> |</br>
+| Mexico | Yellow/White pages <a href="http://www.seccionamarilla.com.mx/">Mexico Yellow Pages</a> <a href="https://yelo.com.mx/">Yellow Pages 2</a> |</br>
 | Michigan |  <a href="https://cofs.lara.state.mi.us/SearchApi/Search/Search">Business search</a> |</br>
 | Minnesota |  <a href="https://dps.mn.gov/divisions/dvs/Pages/search-dvs.aspx">Search driver and venicle services</a> <a href="https://secure.doli.state.mn.us/lookup/licensing.aspx">Departament of Labor and Industry search</a> |</br>
 | Mississippi |  <a href="https://corp.sos.ms.gov/corp/portal/c/page/corpBusinessIdSearch/portal.aspx">Business search</a> |</br>
 | Missouri |  <a href="https://www.sos.mo.gov/BusinessEntity/soskb/csearch.asp">Business search</a> |</br>
-| Moldova | </br>Yellow/White pages <a href="http://www.yellowpages.md/">Moldova Yellow Pages</a> |</br>
-| Mongolia | </br>Court records <a href="http://www.supremecourt.mn/english">Mongolia Supreme Court</a> |</br>
+| Moldova | Yellow/White pages <a href="http://www.yellowpages.md/">Moldova Yellow Pages</a> |</br>
+| Mongolia | Court records <a href="http://www.supremecourt.mn/english">Mongolia Supreme Court</a> |</br>
 | Montana |  <a href="https://mtrevenue.gov/licenses/">License lookup</a> |</br>
 | Morocco | Business registry <a href="https://www.directinfo.ma/">directinfo.ma</a></br>Court records <a href="https://www.mahakim.ma/Ar/Services/SuiviAffaires_new/TA/?Page=ServicesElectronique&TypJur=TA">Morocco Ministry of Justice (Administrative courts)</a> <a href="https://www.mahakim.ma/Ar/Services/SuiviAffaires_new/CAA/?Page=ServicesElectronique&TypJur=CAA">Morocco Ministry of Justice (Administrative courts of Appeal)</a> <a href="https://www.mahakim.ma/Ar/Services/SuiviAffaires_new/TC/?Page=ServicesElectronique&TypJur=TC">Morocco Ministry of Justice (Commercial courts)</a> <a href="https://www.mahakim.ma/Ar/Services/SuiviAffaires_new/CAC/?Page=ServicesElectronique&TypJur=CAC">Morocco Ministry of Justice (Commercial courts of Appeal)</a> <a href="https://www.mahakim.ma/Ar/Services/SuiviAffaires_new/TPI/?Page=ServicesElectronique&TypJur=TPI">Morocco Ministry of Justice (Courts of first instance)</a> <a href="https://www.mahakim.ma/Ar/Services/SuiviAffaires_new/CA/?Page=ServicesElectronique&TypJur=CA">Morocco Ministry of Justice (Courts of appeal)</a></br>Yellow/White pages <a href="http://www.telecontact.ma/">Morocco White Pages</a> <a href="https://yelo.ma/">Yellow Pages</a> |</br>
 | Mozambique | Cadastral map <a href="https://portals.landfolio.com/mozambique/en/">portals.landfolio.com</a> |</br>
-| Myanmar | </br>Yellow/White pages <a href="http://www.myanmaryellowpages.biz/">Myanmar Yellow Pages</a> <a href="https://www.myanmaryp.com/">Yellow Pages</a> |</br>
+| Myanmar | Yellow/White pages <a href="http://www.myanmaryellowpages.biz/">Myanmar Yellow Pages</a> <a href="https://www.myanmaryp.com/">Yellow Pages</a> |</br>
 | Namibia | Cadastral map <a href="https://portals.landfolio.com/namibia/">portals.landfolio.com</a> <a href="https://www.namibiayp.com/">Yellow Page</a> |</br>
 | Nebraska |  <a href="https://www.nebraska.gov/LISSearch/search.cgi">License information system search</a> <a href="https://nebraskalegislature.gov/bills/">Search bills and resolutions</a> |</br>
 | Nepal |  <a href="https://nepalyp.com/">Nepal</a> |</br>
@@ -168,7 +168,7 @@ https://cipher387.github.io/osintmap/
 | New York | Passengers lists <a target="_blank" href="http://www.castlegarden.org/searcher.php">Castle Garden: 1820 - 1913 </a> <a target="_blank" href="https://heritage.statueofliberty.org/">Ellis Island Passenger Search database New York 1820 - 1957</a> <a href=" https://www.howsmydrivingny.nyc/">Search New York City parking & camera violations</a> |</br>
 | New Zeland | Business registry <a href="https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/search">app.companiesoffice.govt.nz</a></br>Transport live map <a target="_blank" href="https://anytrip.com.au/">anytrip.com.au</a></br>Yellow/White pages <a href="http://yellow.co.nz/">New Zeland Yellow Pages</a> <a href="https://app.companiesoffice.govt.nz/companies/app/ui/pages/individual/search">Yellow/White pages</a> |</br>
 | Newfounland & Lablador |  <a href="https://cado.eservices.gov.nl.ca/CADOInternet/Main.aspx">Business Registry Search</a> <a href="https://maa.ca/assessments/assessment-search/">Assessment Search</a> |</br>
-| Nicaragua | </br>Yellow/White pages <a href="http://www.paginasamarillas.com.ni/">Nicaragua Yellow Pages</a> <a href="https://www.yelu.com.ni/">Yellow Pages</a> |</br>
+| Nicaragua | Yellow/White pages <a href="http://www.paginasamarillas.com.ni/">Nicaragua Yellow Pages</a> <a href="https://www.yelu.com.ni/">Yellow Pages</a> |</br>
 | Niger |  <a href="https://www.niger.afrium.com/">Business search</a> |</br>
 | Nigeria |  <a href="https://nigeria24.me">Business search</a> <a href="https://businesslist.com.ng/">Nigeria Business List</a> |</br>
 | Niue | Business registry <a href="http://www.companies.gov.nu/search-the-register/companies-register/">companies.gov.nu</a> |</br>
@@ -201,7 +201,7 @@ https://cipher387.github.io/osintmap/
 | Queensland |  <a href="https://www.service.transport.qld.gov.au/checkrego/public/Welcome.xhtml?dswid=-6846">Venicle Registration Search</a> |</br>
 | Rhode Island |  <a href="https://search-sos.org/rhode-island-ri-business-entity-corporation-search/">Business search</a> |</br>
 | Riga | Transport live map <a target="_blank" href="https://saraksti.rigassatiksme.lv/index.html#riga/map,page">saraksti.rigassatiksme.lv</a> |</br>
-| Romania | </br>Yellow/White pages <a href="http://yellowpages.com.ro/">Romania Yellow Pages</a> <a href="http://www.rolocal.ro/">Romania Local Search</a> <a href="http://portal.just.ro/SitePages/acasa.aspx">Legal Documents Search</a> <a href="https://www.paginiaurii.ro">Companies information search</a> <a href="https://www.romaniayp.com/">Yellow Pages 2</a> |</br>
+| Romania | Yellow/White pages <a href="http://yellowpages.com.ro/">Romania Yellow Pages</a> <a href="http://www.rolocal.ro/">Romania Local Search</a> <a href="http://portal.just.ro/SitePages/acasa.aspx">Legal Documents Search</a> <a href="https://www.paginiaurii.ro">Companies information search</a> <a href="https://www.romaniayp.com/">Yellow Pages 2</a> |</br>
 | Russian Federation | Cadastral map <a href="https://pkk.rosreestr.ru/#/search">pkk.rosreestr.ru</a></br>Business registry <a href="https://rmsp.nalog.ru/">rmsp.nalog.ru</a>  </br>Venicle information <a target="_blank" href="https://www.nomerogram.ru/">nomerogram.ru</a></br>Court records <a href="https://sudrf.ru/index.php?id=300&searchtype=sp">State Automated System of the Russian Federation "Justice"</a> <a href="https://sudact.ru/">Judicial and regulatory acts of the Russian Federation</a></br>Yellow/White pages <a href="http://www.yp.ru/yellow.html/english/?n=2">Russian Yellow Pages</a> <a href="https://toldot.ru/life/cemetery/">Jewish Grave Search</a> <a href="http://поискзахоронений.рф/">Grave Search</a> <a href="https://кладбищароссии.рф/">Russian Cemetries Database</a> <a href="http://сайт-памяти.рф/">Memorial Site</a> |</br>
 | Rwanda |  <a href="https://www.rwandayp.com/">Yellow pages</a> |</br>
 | Saint Lucia | Business registry <a href="http://www.rocip.gov.lc/stlucia/default.aspx">rocip.gov.lc</a> |</br>
@@ -216,8 +216,8 @@ https://cipher387.github.io/osintmap/
 | Sierra Leone | Business registry <a href="http://www.oarg.gov.sl/cforms/portal.html">oarg.gov.sl</a> |</br>
 | Singapore | Business registry <a href="https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx">bizfile.gov.sg</a></br>Yellow/White pages <a href="http://www.phonebook.com.sg/">Singapore White Pages</a> <a href="http://www.yellowpages.com.sg/">Singapore Yellow Pages</a> |</br>
 | Slovakia | Business registry <a href=""https://www.orsr.sk/search_subjekt.asp?lan=en"">orsr.sk</a> </br>Venicle information <a target=""_blank"" href=""https://www.stkonline.sk/spz/"">stkonline.sk</a></br>Court records <a href=""https://www.slov-lex.sk/vseobecne-sudy-sr"">Slov-lex</a></br>Phone Directory <a href="https://telefonny.zoznam.sk">telefonny.zoznam.sk</a></br>Registry of Debtors (companies and personal) <a href="https://zoznamdlznikov.com">zoznamdlznikov.com</a></br>Ratings of companies</br>  <a href="https://dlznik.zoznam.sk/sledovanie-firiem">dlznik.zoznam.sk</a></br>List of Registries and databases <a href="https://zoznam.sk/katalog/Spravodajstvo-informacie/Firemne-katalogy-databanky/">zoznam.sk</a></br>Yellow/White pages <a href="http://www.zlatestranky.sk/">Slovakia Yellow Pages</a></br>Yellow/White pages <a href="http://www.zlatestranky.sk/">Slovakia Yellow Pages</a> <a href="https://www.pohrebiska.sk/vyhladanie.jsp?plocha=104">"Pohrebiska" cemetery</a> <a href="http://www.virtualnycintorin.sk/">Virtual cemetery</a> <a href="https://www.cemetery.sk/english/?">Virtual cemetries</a> <a href="https://www.slovakiayp.com/">Yellow Pages</a> |</br>
-| Slovenia | </br>Yellow/White pages <a href="http://yellow3.eunet.si/yellowpage/a/">Slovenia Yellow Pages</a> |</br>
-| South Africa | </br>Yellow/White pages <a href="http://www.yellowpages.co.za/">South Africa Yellow Pages</a> <a href="http://eservices.cipc.co.za/Search.aspx">Companies and Intellectual Property Commission search</a> <a href=" https://africanlii.org/">Caselaw, legislation and journals</a> |</br>
+| Slovenia | Yellow/White pages <a href="http://yellow3.eunet.si/yellowpage/a/">Slovenia Yellow Pages</a> |</br>
+| South Africa | Yellow/White pages <a href="http://www.yellowpages.co.za/">South Africa Yellow Pages</a> <a href="http://eservices.cipc.co.za/Search.aspx">Companies and Intellectual Property Commission search</a> <a href=" https://africanlii.org/">Caselaw, legislation and journals</a> |</br>
 | South Australia |  <a href="https://www.sa.gov.au/topics/driving-and-transport/registration/vehicle-registration/check-registration-expiry">Venicle Registration Search</a> |</br>
 | South Carolina |  <a href="https://businessfilings.sc.gov/BusinessFiling/Entity/Search">Business search</a> |</br>
 | South Dakota |  <a href="https://sos.nd.gov/business/business-services/business-records-search">Business search</a> |</br>
@@ -228,7 +228,7 @@ https://cipher387.github.io/osintmap/
 | Sri Lanka |  <a href="https://www.lankayp.com/">Yellow Pages</a> |</br>
 | Sudan |  <a href="https://www.sudanyp.com/">Yellow pages</a> |</br>
 | Suriname |  <a href="https://www.surinamyp.com/">Yellow Pages</a> |</br>
-| Sweden | </br>Yellow/White pages <a href="http://www.proff.se/">Sweden Business Finder</a> <a href="https://nummer.pts.se/NbrSearch">Mobile operator information by phone number</a> <a href="https://www.upplysning.se">Tax information search</a> <a href="https://www.swedyello.com/">Yellow Pages</a> |</br>
+| Sweden | Yellow/White pages <a href="http://www.proff.se/">Sweden Business Finder</a> <a href="https://nummer.pts.se/NbrSearch">Mobile operator information by phone number</a> <a href="https://www.upplysning.se">Tax information search</a> <a href="https://www.swedyello.com/">Yellow Pages</a> |</br>
 | Switzerland | Cadastral map <a href="https://map.geo.admin.ch/?lang=de&topic=cadastre&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2600163.86&N=1199711.79&zoom=8.880769760770255&layers_visibility=true,false">map.geo.admin.ch</a></br>Business registry <a href="https://www.zefix.admin.ch/en/search/entity/welcome">zefix.admin.ch</a></br>Yellow/White pages <a href="http://www.branchenbuch.ch/">Switzerland Business Directory</a> <a href="https://www.swissyello.com/">Yellow Pages</a> |</br>
 | Sydney |  <a href="https://webcamsydney.com/">Live Webcams</a> <a href="https://www.bcassessment.ca/">Property Assesments</a> |</br>
 | Syria |  <a href="https://www.syriayp.com/">Yellow Pages</a> |</br>
@@ -257,7 +257,7 @@ https://cipher387.github.io/osintmap/
 | Uruguay |  <a href="https://www.yelu.uy/">Yellow Pages</a> |</br>
 | Utah |  <a href="https://secure.utah.gov/bes/">Business search</a> |</br>
 | Uzbekistan | Business registry <a href="https://orginfo.uz/">orginfo.uz</a></br>Court records <a href="https://public.sud.uz/#!/sign/criminal">Supreme court of the Respublic of Uzbekistan (Criminal cases)</a> <a href="https://public.sud.uz/#!/sign/economy">Supreme court of the Respublic of Uzbekistan (Economic cases)</a> <a href="https://public.sud.uz/#!/sign/administrative">Supreme court of the Respublic of Uzbekistan (Administrative cases)</a> <a href="https://public.sud.uz/#!/sign/civil">Supreme court of the Respublic of Uzbekistan (Civil cases)</a> <a href="https://www.uzbekistanyp.com/">Yellow Pages</a> |</br>
-| Venezuela | </br>Yellow/White pages <a href="http://venezuela.paginasamarillas.com/">Venezuela Yellow Pages</a> |</br>
+| Venezuela | Yellow/White pages <a href="http://venezuela.paginasamarillas.com/">Venezuela Yellow Pages</a> |</br>
 | Vermont |  <a href="https://bizfilings.vermont.gov/online/BusinessInquire">Business search</a> |</br>
 | Victoria |  <a href="https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration">Venicle Registration Search</a> |</br>
 | Vietnam | Business registry <a href="https://dichvuthongtin.dkkd.gov.vn/inf/default.aspx">dichvuthongtin.dkkd.gov.vn</a> |</br>
