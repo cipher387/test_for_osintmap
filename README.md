@@ -4,7 +4,7 @@ https://cipher387.github.io/osintmap/
 
 ![Worldwide OSINT Map](https://github.com/cipher387/osintmap/blob/main/osintmap.jpg)
 
-| Link | Description |
+| Country | Links |
 | --- | --- |
 | Afganistan |  <a href="http://203.215.33.115/CompanyVerification/Pages/BuReVerification.aspx">Central Business Registry</a> |</br>
 | Africa |  <a href="https://appruve.co">Verify people ID in Ghana, Egypt, Nigeria, Uganda, Kenya, South Africa</a> <a href="https://gazettes.africa/">African Gazettes</a> <a href="https://africanlii.org/">Caselaw, legislation and journals</a> <a href="https://www.aiddata.org">Different datasets collection</a> |</br>
