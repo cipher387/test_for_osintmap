@@ -1,3 +1,5 @@
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+
 Explore this project at:
 
 https://cipher387.github.io/osintmap/
@@ -303,3 +305,5 @@ https://cipher387.github.io/osintmap/
                iconColor: '#ff0000'
             }))    
   
+  
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
