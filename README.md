@@ -1,8 +1,7 @@
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
-
+Thank you for following me! https://cybdetective.com
 Explore this project at:
 
-https://cipher387.github.io/osintmap/
+https://cybdetective.com/osintmap
 
 ![Worldwide OSINT Map](https://github.com/cipher387/osintmap/blob/main/osintmap.jpg)
 
@@ -313,4 +312,4 @@ https://cipher387.github.io/osintmap/
             }))    
   
   
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
